@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         // Print "Hello, Jenkins CI/CD Pipeline!"
         System.out.println("Hello, Jenkins CI/CD Pipeline!");
+        System.out.println("Hi this is java program executing......");
 
         // Print current date and time
         LocalDateTime currentDateTime = LocalDateTime.now();
