@@ -1,7 +1,9 @@
 // hello_node_extended.js
 
 // Print a greeting message
+console.log("Hello, this is shrinath testing program");
 console.log("Hello, Node.js!");
+
 
 // Define a variable
 let favoriteNumber = 42;
