@@ -7,6 +7,7 @@ public class student {
         int age = 24;
         String course = "Computer Science";
         String studentId = "CS001";
+        String city = "Dombivli";
 
         // Display student details
         System.out.println("Student Details:");
@@ -14,5 +15,6 @@ public class student {
         System.out.println("Age: " + age);
         System.out.println("Course: " + course);
         System.out.println("Student ID: " + studentId);
+        System.out.println("City: " + city);
     }
 }
